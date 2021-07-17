@@ -12,11 +12,13 @@ alias welcome='echo Welcome samir ta afno kam gardai gar muji ma chaini kura har
 echo chaini kura ko matlab kattu hoina ni feri muji;sleep 3;
 google-chrome;thunar;discord;code;'
 
-alias py = 'cd /home/aluman/Programming/Python_/'
+alias py='cd /home/aluman/Programming/Python_/'
 
-alias dj = 'cd /home/aluman/Programming/Python_/Django_/'
+alias dj='cd /home/aluman/Programming/Python_/Django_/'
 
-course = 'cd /home/aluman/Programming/psql/psql for everybody/'
+alias course='cd /home/aluman/Programming/psql/psql\for\everybody/'
+
+alias minecraft='cd ~ && prime-run java -jar TLauncher-2.8.jar'
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
